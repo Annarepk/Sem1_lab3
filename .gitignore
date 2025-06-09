@@ -10,7 +10,6 @@ CMakeFiles/
 *.cmake
 CMakeCache.txt
 Makefile
-CMakeList.txt
 
 .idea/
 *.iml
